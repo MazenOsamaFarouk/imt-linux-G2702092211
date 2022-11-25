@@ -1,0 +1,15 @@
+Mazen
+hello from stderr
+Hello World, 100
+------------------
+hello from stderr
+Hello World, 50
+/////////////////
+hello from stderr
+Hello World, 60
+//////////////////
+HelloWorld
+Hello World1
+HelloWorld
+Hello World 2
+
