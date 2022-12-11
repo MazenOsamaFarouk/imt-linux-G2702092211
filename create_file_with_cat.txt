@@ -1,0 +1,5 @@
+Hello All,
+This is a file being edited in the termnail with cat.
+This is until you hit Ctrl+D to stop editing
+
+like right now ...
